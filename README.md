@@ -1,5 +1,5 @@
 # Mi-primer-repo
-# Tecnologías y lenguajes de programación:
-# Python
-# JavaScript
-# Unity
+## Tecnologías y lenguajes de programación:
+### Python
+### JavaScript
+### Unity
